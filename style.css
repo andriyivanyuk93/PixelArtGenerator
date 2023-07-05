@@ -1,0 +1,8 @@
+/* CSS styles for the pixel art generator */
+#pixel-canvas {
+  border: 1px solid black;
+}
+
+#generate-button {
+  margin-top: 10px;
+}
